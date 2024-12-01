@@ -4,11 +4,10 @@
 
 ## Plan for dagen
 
-- Velkommen & Setup
+- Velkommen
 - Introduktion til micro:bit
 - Login til micro:bit
-- Udlevering af micro:bit
-- Programmering i MakeCode
+- Missioner
 - Kage!
 
 ---
@@ -30,11 +29,11 @@
 
 ---
 
-<!-- .slide: data-background="images/phone.png" -->
+<!-- .slide: data-background="images/kogeplade.png" -->
 
---- 
+---
 
-Hvad har de til fælles?
+## Hvad har de til fælles?
 
 - Kaffemaskine
 - Computerspil
@@ -78,7 +77,7 @@ Hvad har de til fælles?
 
 0. Gå på internettet (Wifi: BORGERNET)
 1. Start Browser (Chrome eller Firefox er bedst)
-2. Gå til [microbit.org/join]()
+2. Gå til [microbit.org/join](https://microbit.org/join)
 3. Login 
 
 ---
@@ -92,23 +91,23 @@ Hvad har de til fælles?
 
 ---
 
-## Dagens mission
+## Dagens mission(er)
 
-- Vis en tegning på micro:bit
-- Vis forskellige tegninger ved at trykke på A eller B
+- Skriv dit navn på displayet
+- Hjerteslag 
+- Følelse-tracker
 
 ---
 
 ## Dagens udvidede missioner
 
-- Lav en tegning der vises i 5 sekunder
--  tælle hvor mange gange du har trykket på knappen
-- Få micro:bit til at sende billede til en anden micro:bit
-
+- Skridt-tæller
+- Natte-lys
+- Sten-saks-papir
 
 ---
 
-## Afrunding
+## Afslutning
 
 - Hvad var det bedste ved det, du lavede?
 - Hvad vil du prøve næste gang?
