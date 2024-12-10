@@ -1,0 +1,40 @@
+/* Custom theme for Coding Pirates presentations */
+:root {
+  --r-main-font: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell;
+  --r-heading-font: var(--r-main-font);
+  --r-code-font: 'Source Code Pro', monospace;
+}
+
+.reveal {
+  font-family: var(--r-main-font);
+}
+
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  font-family: var(--r-heading-font);
+  color: #2d5986;
+}
+
+.reveal code {
+  font-family: var(--r-code-font);
+  background: #f0f0f0;
+  padding: 2px 5px;
+  border-radius: 4px;
+}
+
+.reveal pre code {
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.reveal img {
+  max-height: 500px;
+  margin: 20px auto;
+}
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal .slides section {
+  height: 100%;
+} 
