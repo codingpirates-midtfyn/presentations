@@ -58,7 +58,7 @@ EOF
 # Add links to each presentation
 for dir in $(ls -d dist/20[0-9][0-9]-[0-9][0-9]-[0-9][0-9] | sort -r); do
     date=$(basename $dir)
-    echo "        <li><a href=\"$date/deck.html\">Presentation $date</a></li>" >> dist/index.html
+    echo "        <li><a href=\"$date/deck.html\">$date</a></li>" >> dist/index.html
 done
 
 # Close HTML
