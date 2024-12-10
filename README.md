@@ -4,28 +4,30 @@ Dette repository indeholder præsentationer for Coding Pirates Midtfyn.
 
 ## Opsætning
 
-1. Install reveal-md:
-```bash
-npm install -g reveal-md
-```
+1. Installer reveal-md:  
+   ```bash
+   npm install -g reveal-md
+   ```
 
-2. Each presentation should be in a folder named with the date (YYYY-MM-DD) and contain:
-   - `deck.md` - The presentation content
-   - `images/` - Images used in the presentation
-   - `code/` - Any code examples (optional)
+## Struktur for Præsentationer
 
-## Generate Presentations
+Hver præsentation skal ligge i en mappe navngivet efter datoen (YYYY-MM-DD) og indeholde:  
+- `deck.md` - Præsentationens indhold  
+- `images/` - Billeder brugt i præsentationen  
+- `code/` - Eventuelle kodeeksempler (valgfrit)  
 
-Run the generation script:
+## Generér Præsentationer
+
+Kør genereringsscriptet:  
 ```bash
 ./generate.sh
 ```
 
-This will:
-1. Create a `dist` directory with all presentations
-2. Generate an index.html with links to all presentations
-3. Apply the shared theme to all presentations
+Dette vil:  
+1. Oprette en `dist`-mappe med alle præsentationer  
+2. Generere en `index.html` med links til alle præsentationer  
+3. Anvende det delte tema på alle præsentationer  
 
-## View Presentations
+## Se Præsentationer
 
-After generating, open `dist/index.html` in your browser to see all available presentations.
+Efter genereringen kan du åbne `dist/index.html` i din browser for at se alle tilgængelige præsentationer.

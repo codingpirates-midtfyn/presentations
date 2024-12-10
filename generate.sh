@@ -21,7 +21,7 @@ cat > dist/index.html << EOF
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coding Pirates Presentations</title>
+    <title>Coding Pirates Midtfyn Præsentationer</title>
     <style>
         body {
             font-family: system-ui, -apple-system, sans-serif;
@@ -51,7 +51,7 @@ cat > dist/index.html << EOF
     </style>
 </head>
 <body>
-    <h1>Coding Pirates Presentations</h1>
+    <h1>Coding Pirates Midtfyn Præsentationer</h1>
     <ul class="presentations">
 EOF
 
