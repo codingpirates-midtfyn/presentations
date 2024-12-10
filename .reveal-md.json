@@ -1,0 +1,9 @@
+{
+  "theme": "black",
+  "css": "theme.css",
+  "separator": "^\\n---\\n",
+  "verticalSeparator": "^\\n\\+\\+\\+\\n",
+  "highlightTheme": "github",
+  "scripts": [],
+  "staticDirs": ["images", "code"]
+} 
