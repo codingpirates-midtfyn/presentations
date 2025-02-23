@@ -19,33 +19,11 @@
 
 ---
 
-<iframe width="1900" height="2000" src="https://www.youtube.com/embed/twmWOseADQQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-</iframe>
-
----
-
-<!-- .slide: data-background="images/kogeplade.png" -->
-
----
-
-## Introduktion til micro:bit
-
----
-
-## Hvad er en micro:bit?
-
-- En lille computer du kan programmere
-- Har LED-lys, knapper og sensorer
-- Perfekt til at lære programmering
-
----
-
 ![micro:bit front](images/microbitv1-front.png)
 
 ---
 
 ![micro:bit back](images/microbitv1-back.png)
-
 
 ---
 
@@ -67,6 +45,13 @@
 
 ---
 
+## micro:bit refresh
+
+- Blokke i venstre side
+- Input, Lokker, Logik, ...
+
+---
+
 ## Din første kode
 
 - Træk blokke fra menuen
@@ -78,17 +63,13 @@
 
 ## Dagens mission(er)
 
-- Skriv dit navn på displayet
-- Hjerteslag 
-- Følelse-tracker
+- Multi-Player Terning
 
 ---
 
 ## Dagens udvidede missioner
 
-- Skridt-tæller
-- Natte-lys
-- Sten-saks-papir
+- Space Invader
 
 ---
 
@@ -101,7 +82,4 @@
 
 ### Links
 
-- [microbit.org/join](https://microbit.org/join)
-- [makecode.microbit.org](https://makecode.microbit.org)
-- [Kom godt i gang med micro:bit](https://cfumaker.dk/ressourcer/kom-godt-i-gang-med-microbit/)
-- [microbit-i-skolen.dk](https://microbit-i-skolen.dk/439835492)
+- [Space Invader Game](https://www.youtube.com/watch?v=ImPEoy-d_3w)
