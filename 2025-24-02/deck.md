@@ -67,9 +67,89 @@
 
 ---
 
+## Terning 0
+
+- Lav et program der viser dit navn
+
+---
+
+## Terning 1
+
+- Lav et program der viser et nyt tal melem 1 og 6 hvergang du ryster microbitten
+
+---
+
+## Microbit Radio
+
+- Microbit kan sende beskder via radio
+- Beskeder sendes paa en kanal der hver har et gruppe nummer
+
+---
+
+## Terning 2
+
+- Lav et program der sender en besked via radio naar der trykkes paa en knap
+- Vis besked naar du modtager en besked/streng
+
+---
+
+## Terning 3
+
+- Lav et program der viser et nyt tal melem 1 og 6 hvergang du ryster microbitten
+- Send tallet via radio
+- Modtag tal via radio
+- Hvis et ikon for ens, hojere eller lavere
+- Extra:
+   - Se naeste slide
+
+---
+
+## Terning 3 Extra
+
+- Hav 3 liv
+- Game over/Spil melodi naar du har tabt 3 gange
+- Vis terning v. tryk paa A
+- Vis liv v. tryk paa B
+
+---
+ 
 ## Dagens udvidede missioner
 
 - Space Invader
+- Du har et skib der kan flytte til venstre, hojre og skyde
+- Fjenden sender skibe mod dig
+- Du faar et point per fjende skib du rammer
+
+---
+
+## Space Invader 0
+
+- Lav en sprite for skib 
+- Tryk A, flyt sprite til venstre
+- Tryk B, flyt sprite til hojre
+
+---
+
+## Space Invader 1
+
+- Samme som Space Invader 0
+- Tryk A+B, Skyd en sprite op ad
+
+---
+
+## Space Invader 2
+
+- Same some Space Invader 1
+- Lav fjende der dukker op tilfaeldigt i foerste raekke
+- Fly sprite ned ad 
+
+---
+
+## Sprite Invader 3
+
+- Samme some Space Invader 2
+- Hvis fjende roer dit skib "Game Over"
+- Hvis dit skud rammer fjenden +1 Score
 
 ---
 
