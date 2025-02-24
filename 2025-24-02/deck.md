@@ -1,5 +1,7 @@
 # Micro:bit - Coding Pirates Midtfyn
 
+https://bit.ly/cpmidtfyn
+
 ---
 
 ## Plan for dagen
