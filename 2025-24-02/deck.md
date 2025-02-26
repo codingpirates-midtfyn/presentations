@@ -164,4 +164,19 @@ https://bit.ly/cpmidtfyn
 
 ### Links
 
-- [Space Invader Game](https://www.youtube.com/watch?v=ImPEoy-d_3w)
+- [Space Invader Game Video](https://www.youtube.com/watch?v=ImPEoy-d_3w)
+
+---
+
+### Links til kode
+
+Download kode og overfør til din micro:bit editor.
+
+- [Name Badge](code/00-namebadge.hex)
+- [Single Player Dice](code/01-dice.hex)
+- [Radio Chat](code/02-radio-chat.hex)
+- [Two Player Dice](code/03-dice-two-player.hex)
+- [Space Invaders - Basic](code/plus00-space-invaders.hex)
+- [Space Invaders - Shooting](code/plus01-space-invaders.hex)
+- [Space Invaders - Enemies](code/plus02-space-invaders.hex)
+- [Space Invaders - Complete](code/plus03-space-invaders.hex)
